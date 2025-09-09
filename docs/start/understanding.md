@@ -1,5 +1,5 @@
 ---
-hide:
+hide:1daetxbteo
   - navigation
   - toc
 ---
