@@ -1,6 +1,4 @@
-# Sony - PlayStation 2 (Play!)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/smbhFWfkgMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Sony - PlayStation frameborder=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Background
 
