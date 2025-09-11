@@ -15,7 +15,7 @@ The Play! core has been authored by
 
 The Play! core is licensed under
 
-- [MIT](https://github.com/jpd002/Play-/blob/master/License.txt)
+(https://github.com/jpd002/Play-/blob/master/License.txt)
 
 A summary of the licenses behind RetroArch and its cores can be found [here](../development/licenses.md).
 
